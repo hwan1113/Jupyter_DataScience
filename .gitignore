@@ -1,4 +1,5 @@
 *.pkl
 ./my_logs
-./my_mnist_logs
+*/my_mnist_logs
 *.data
+*/my_logs
