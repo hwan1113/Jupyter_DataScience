@@ -3,3 +3,5 @@
 */my_mnist_logs
 *.data
 */my_logs
+*.h5
+*/my_cifar10_logs
