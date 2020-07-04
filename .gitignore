@@ -5,3 +5,4 @@
 */my_logs
 *.h5
 */my_cifar10_logs
+*/my_custom_model.ckpt
